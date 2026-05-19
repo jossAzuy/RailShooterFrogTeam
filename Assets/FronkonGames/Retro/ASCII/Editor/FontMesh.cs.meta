@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b4c89e2f68a69ef45898bef86a39d34c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Editor/FontMesh.cs
+  uploadId: 873806

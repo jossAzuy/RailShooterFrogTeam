@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Endless
+  m_EditorClassIdentifier: 
+  title: endless
+  colors:
+  - {r: 0, g: 0, b: 0.07058824, a: 1}
+  - {r: 0.18431373, g: 0.078431375, b: 0.007843138, a: 1}
+  - {r: 0.047058824, g: 0.3764706, b: 0.039215688, a: 1}
+  - {r: 0.105882354, g: 0.14509805, b: 0.2784314, a: 1}
+  - {r: 0.6392157, g: 0.07058824, b: 0, a: 1}
+  - {r: 0.28235295, g: 0.44313726, b: 0.45882353, a: 1}
+  - {r: 0.7372549, g: 0.23137255, b: 0.23137255, a: 1}
+  - {r: 0.7764706, g: 0.49411765, b: 0.03137255, a: 1}
+  - {r: 0.4627451, g: 0.8156863, b: 0.18431373, a: 1}
+  - {r: 0.33333334, g: 0.64705884, b: 0.65882355, a: 1}
+  - {r: 0.9137255, g: 0.9137255, b: 0.0627451, a: 1}
+  - {r: 0.99215686, g: 0.67058825, b: 0.67058825, a: 1}
+  - {r: 0.9372549, g: 0.9372549, b: 0.8156863, a: 1}
+  tags: []
+  likes: 5

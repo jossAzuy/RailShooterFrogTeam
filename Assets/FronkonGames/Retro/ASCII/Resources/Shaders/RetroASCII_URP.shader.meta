@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec20c4e0616c2a6459e7526ee07851fe
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Resources/Shaders/RetroASCII_URP.shader
+  uploadId: 873806

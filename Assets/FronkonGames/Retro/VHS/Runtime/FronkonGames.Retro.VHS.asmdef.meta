@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6a5d4be89a158645983958c2140880c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Runtime/FronkonGames.Retro.VHS.asmdef
+  uploadId: 868496

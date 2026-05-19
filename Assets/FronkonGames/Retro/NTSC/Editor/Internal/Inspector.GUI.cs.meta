@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02d11ac79e2d1e64fbe73167cde442a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Editor/Internal/Inspector.GUI.cs
+  uploadId: 868486

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b755cfe5324df8249bfaaaa5d381c767
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Resources/Shaders/RetroHandheld8Bit_URP.shader
+  uploadId: 868478

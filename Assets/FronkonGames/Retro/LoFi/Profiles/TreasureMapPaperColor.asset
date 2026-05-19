@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TreasureMapPaperColor
+  m_EditorClassIdentifier: 
+  title: Treasure Map Paper Color
+  colors:
+  - {r: 0.4627451, g: 0.25882354, b: 0.1254902, a: 1}
+  - {r: 0.827451, g: 0.101960786, b: 0.08235294, a: 1}
+  - {r: 0.5019608, g: 0.54901963, b: 0.54901963, a: 1}
+  - {r: 0.91764706, g: 0.5803922, b: 0.22352941, a: 1}
+  - {r: 0.9019608, g: 0.4392157, b: 0.53333336, a: 1}
+  - {r: 1, g: 0.7294118, b: 0.33333334, a: 1}
+  - {r: 0.99607843, g: 0.81960785, b: 0.42352942, a: 1}
+  - {r: 0.72156864, g: 0.7647059, b: 0.7647059, a: 1}
+  - {r: 1, g: 0.99607843, b: 0.62352943, a: 1}
+  - {r: 0.85490197, g: 0.88235295, b: 0.89411765, a: 1}
+  tags:
+  - map
+  - treasuremap
+  - treasuremap
+  - letter
+  - parchmentscroll
+  - scroll
+  - parchment
+  - waxseal
+  - sealstamp
+  - paper
+  - brown
+  - brownpaper
+  likes: 6

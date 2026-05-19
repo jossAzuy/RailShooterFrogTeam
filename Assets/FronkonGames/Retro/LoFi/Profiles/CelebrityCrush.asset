@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CelebrityCrush
+  m_EditorClassIdentifier: 
+  title: Celebrity Crush
+  colors:
+  - {r: 0.16862746, g: 0.105882354, b: 0.16078432, a: 1}
+  - {r: 0.40392157, g: 0.14901961, b: 0.32156864, a: 1}
+  - {r: 0.5411765, g: 0.1882353, b: 0.38431373, a: 1}
+  - {r: 0.8627451, g: 0.41568628, b: 0.4627451, a: 1}
+  - {r: 0.8980392, g: 0.74509805, b: 0.56078434, a: 1}
+  - {r: 1, g: 0.60784316, b: 0.64705884, a: 1}
+  - {r: 1, g: 0.8039216, b: 0.8392157, a: 1}
+  - {r: 1, g: 0.9411765, b: 0.7529412, a: 1}
+  - {r: 1, g: 1, b: 0.9529412, a: 1}
+  tags:
+  - pixelart
+  - romance
+  - popculture
+  - pinkpalette
+  - portraits
+  - teenmag
+  - crushcore
+  - nostalgia
+  - limitedpalette
+  likes: 15

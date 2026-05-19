@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be3d62da0afa2204ca876d86bd11035a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TwilightTown.asset
+  uploadId: 873794

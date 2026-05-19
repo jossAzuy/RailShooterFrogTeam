@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0147eb22a9c3d114a9c456fa4df221f8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Editor/FronkonGames.Retro.VHS.Editor.asmdef
+  uploadId: 868496

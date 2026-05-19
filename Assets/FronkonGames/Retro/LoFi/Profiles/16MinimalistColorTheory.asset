@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: 16MinimalistColorTheory
+  m_EditorClassIdentifier: 
+  title: 16 minimalist color theory
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.3137255, g: 0.23529412, b: 0.38431373, a: 1}
+  - {r: 0.4509804, g: 0.28235295, b: 0.23921569, a: 1}
+  - {r: 0.27450982, g: 0.44705883, b: 0.4862745, a: 1}
+  - {r: 0.50980395, g: 0.6627451, b: 0.2, a: 1}
+  - {r: 0.7647059, g: 0.4627451, b: 0.25882354, a: 1}
+  - {r: 0.8039216, g: 0.3764706, b: 0.52156866, a: 1}
+  - {r: 0.4392157, g: 0.5647059, b: 0.7529412, a: 1}
+  - {r: 0.69411767, g: 0.72156864, b: 0.39607844, a: 1}
+  - {r: 0.8784314, g: 0.60784316, b: 0.3882353, a: 1}
+  - {r: 0.38039216, g: 0.72156864, b: 0.8666667, a: 1}
+  - {r: 0.9882353, g: 0.80784315, b: 0.1764706, a: 1}
+  - {r: 1, g: 0.6509804, b: 0.70980394, a: 1}
+  - {r: 0.69411767, g: 0.8666667, b: 0.8784314, a: 1}
+  - {r: 0.99215686, g: 0.8509804, b: 0.63529414, a: 1}
+  - {r: 0.99607843, g: 1, b: 0.83137256, a: 1}
+  tags:
+  - Kyle Ren
+  - 16
+  - theory
+  - hsv
+  - wheel
+  - all
+  - box
+  - volume
+  likes: 40

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d500c78a4c7b7174483ad2ca3c5ea804
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Demo/Charsets/Lucida Console_18.asset
+  uploadId: 873806

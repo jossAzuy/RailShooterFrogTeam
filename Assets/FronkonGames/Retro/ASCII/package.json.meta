@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1102014ac980384dbccb9683f69c844
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/package.json
+  uploadId: 873806

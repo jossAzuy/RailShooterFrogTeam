@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e75752c12289e9d438b2bb5802a766dc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/package.json
+  uploadId: 868496

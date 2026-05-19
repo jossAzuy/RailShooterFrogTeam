@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TySeedOfDespair10
+  m_EditorClassIdentifier: 
+  title: TY Seed of Despair 10
+  colors:
+  - {r: 0.2784314, g: 0.3254902, b: 0.29411766, a: 1}
+  - {r: 0.36862746, g: 0.2901961, b: 0.2509804, a: 1}
+  - {r: 0.32156864, g: 0.27450982, b: 0.34509805, a: 1}
+  - {r: 0.43137255, g: 0.39215687, b: 0.24705882, a: 1}
+  - {r: 0.44705883, g: 0.44705883, b: 0.37254903, a: 1}
+  - {r: 0.50980395, g: 0.5294118, b: 0.33333334, a: 1}
+  - {r: 0.5294118, g: 0.45882353, b: 0.40392157, a: 1}
+  - {r: 0.6745098, g: 0.5058824, b: 0.37254903, a: 1}
+  - {r: 0.49803922, g: 0.5529412, b: 0.54509807, a: 1}
+  - {r: 0.654902, g: 0.63529414, b: 0.48235294, a: 1}
+  tags: []
+  likes: 7

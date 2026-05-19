@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd38dec58c91858498848bf2b17fe84d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Runtime/Internal/Constants.cs
+  uploadId: 868478

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db6378e06b48917478e4f1b4b3c616a3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/HamtaroGBC.asset
+  uploadId: 873794

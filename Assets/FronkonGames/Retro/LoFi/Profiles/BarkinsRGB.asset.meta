@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d672f5463e3b7634594846a2367c943b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/BarkinsRGB.asset
+  uploadId: 873794

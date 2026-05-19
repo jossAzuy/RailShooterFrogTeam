@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01cc6fe234cb2a6439b7ee8bf86d798d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/GarticPhoneDefault.asset
+  uploadId: 873794

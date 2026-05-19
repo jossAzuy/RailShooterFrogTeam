@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c099fd798fc92642abdcfbc92182c33
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Proto64.asset
+  uploadId: 873794

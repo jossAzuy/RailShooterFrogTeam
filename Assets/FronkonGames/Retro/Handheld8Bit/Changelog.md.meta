@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a60a0c00fa78c04eb36cec28e4d43a7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Changelog.md
+  uploadId: 868478

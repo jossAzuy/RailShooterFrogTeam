@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GhostlyFruitSherbet
+  m_EditorClassIdentifier: 
+  title: Ghostly Fruit Sherbet
+  colors:
+  - {r: 0.5568628, g: 0.14509805, b: 0.03529412, a: 1}
+  - {r: 0.007843138, g: 0.37254903, b: 0.4392157, a: 1}
+  - {r: 0.7490196, g: 0.36078432, b: 0.078431375, a: 1}
+  - {r: 0.33333334, g: 0.7176471, b: 0.6117647, a: 1}
+  - {r: 0.98039216, g: 0.7058824, b: 0.33333334, a: 1}
+  - {r: 0.5882353, g: 0.99215686, b: 0.69411767, a: 1}
+  - {r: 0.9882353, g: 0.9647059, b: 0.88235295, a: 1}
+  tags:
+  - sherbet
+  - sorbet
+  - seven
+  - 7
+  - uneven
+  - odd
+  - fruit
+  - icecream
+  - ghost
+  - blue
+  - green
+  - cyan
+  - cmyk
+  - complementary
+  likes: 35

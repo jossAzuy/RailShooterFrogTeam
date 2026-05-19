@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ade5e724f36c234aa03396dec929b03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/StarWars16.asset
+  uploadId: 873794

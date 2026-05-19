@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfcf4bdf502c6e74581c2763c2add6ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/FestiveGb.asset
+  uploadId: 873794

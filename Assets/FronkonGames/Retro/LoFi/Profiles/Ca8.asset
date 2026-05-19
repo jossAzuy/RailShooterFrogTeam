@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Ca8
+  m_EditorClassIdentifier: 
+  title: CA8
+  colors:
+  - {r: 0.10980392, g: 0.07058824, b: 0.06666667, a: 1}
+  - {r: 0.23529412, g: 0.20784314, b: 0.1882353, a: 1}
+  - {r: 0.3764706, g: 0.16470589, b: 0.22352941, a: 1}
+  - {r: 0.54509807, g: 0.3529412, b: 0.2509804, a: 1}
+  - {r: 0.7137255, g: 0.5294118, b: 0.41960785, a: 1}
+  - {r: 0.53333336, g: 0.6, b: 0.64705884, a: 1}
+  - {r: 0.73333335, g: 0.7529412, b: 0.47843137, a: 1}
+  - {r: 0.9607843, g: 0.9137255, b: 0.8509804, a: 1}
+  tags:
+  - black
+  - purple
+  - darkbrown
+  - grey
+  - brown
+  - lightbrown
+  - blue
+  - olivegreen
+  - cream
+  - cnh
+  likes: 26

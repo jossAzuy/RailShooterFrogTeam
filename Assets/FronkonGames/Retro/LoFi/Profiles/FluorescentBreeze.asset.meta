@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77cda01bd0e79d242b6380cacec3435e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/FluorescentBreeze.asset
+  uploadId: 873794

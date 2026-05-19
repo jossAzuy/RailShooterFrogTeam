@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c6635ad08e3c8248bd99661c9eda669
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Editor/Internal/Inspector.GUI.cs
+  uploadId: 868496

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b9a50e8902088f44be447d970e96de4
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Editor/FronkonGames.Retro.Handheld8Bit.Editor.asmdef
+  uploadId: 868478

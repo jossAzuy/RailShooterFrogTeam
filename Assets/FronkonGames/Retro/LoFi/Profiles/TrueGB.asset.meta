@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c13b876253f2a64d8407e1e7727c3f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TrueGB.asset
+  uploadId: 873794

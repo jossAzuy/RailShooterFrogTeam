@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TyForgottenTimes9
+  m_EditorClassIdentifier: 
+  title: TY Forgotten Times 9
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.22352941, g: 0.19607843, b: 0.09019608, a: 1}
+  - {r: 0.2901961, g: 0.2784314, b: 0.22745098, a: 1}
+  - {r: 0.49019608, g: 0.3137255, b: 0.2627451, a: 1}
+  - {r: 0.52156866, g: 0.39215687, b: 0.2509804, a: 1}
+  - {r: 0.7254902, g: 0.43529412, b: 0.17254902, a: 1}
+  - {r: 0.5529412, g: 0.5176471, b: 0.44705883, a: 1}
+  - {r: 0.73333335, g: 0.6117647, b: 0.23137255, a: 1}
+  - {r: 0.7921569, g: 0.6627451, b: 0.50980395, a: 1}
+  tags: []
+  likes: 7

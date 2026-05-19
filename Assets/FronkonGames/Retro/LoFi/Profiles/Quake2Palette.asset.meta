@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0489d5c9555a82645a042b6caff019e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Quake2Palette.asset
+  uploadId: 873794

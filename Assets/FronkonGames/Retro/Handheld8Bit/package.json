@@ -1,0 +1,16 @@
+{
+  "name": "com.fronkongames.retro.handheld8bit",
+  "version": "2.0.0",
+  "displayName": "Retro: Handheld 8-Bit",
+  "description": "It mimics the graphics of the 8-bit handheld consoles of the late 1980s.",
+  "unity": "6000.0",
+  "unityRelease": "58f2",
+  "dependencies":  {  },
+  "keywords": [ "unity", "retro", "gameboy", "vintage", "game boy", "nintendo", "handheld", "8 bit" ],
+  "author":
+  {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/store/retro/"
+  }
+}

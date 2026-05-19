@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b1bc1ae04b8a1b48b6d422f20ce8501
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Resources/Shaders/Retro.hlsl
+  uploadId: 868478

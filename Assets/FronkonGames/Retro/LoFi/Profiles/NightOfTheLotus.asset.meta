@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3a796bdbadaca84585c4ca74dbdc389
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/NightOfTheLotus.asset
+  uploadId: 873794

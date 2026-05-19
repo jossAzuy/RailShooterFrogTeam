@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cea1f532c4ef2ea49b9238ec9e1ac120
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/RoyalArmoury.asset
+  uploadId: 873794

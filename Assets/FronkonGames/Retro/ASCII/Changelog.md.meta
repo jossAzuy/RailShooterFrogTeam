@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 500733a2dbc9d9746a87f3dfbf923465
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Changelog.md
+  uploadId: 873806

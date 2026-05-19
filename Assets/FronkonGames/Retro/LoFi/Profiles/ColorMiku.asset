@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: ColorMiku
+  m_EditorClassIdentifier: 
+  title: Color miku
+  colors:
+  - {r: 0.31764707, g: 0.23137255, b: 0.2509804, a: 1}
+  - {r: 0.39607844, g: 0.45882353, b: 0.49411765, a: 1}
+  - {r: 0.36078432, g: 0.39215687, b: 0.6431373, a: 1}
+  - {r: 0.6627451, g: 0.50980395, b: 0.3019608, a: 1}
+  - {r: 0.54901963, g: 0.5372549, b: 0.6392157, a: 1}
+  - {r: 0.58431375, g: 0.73333335, b: 0.69411767, a: 1}
+  - {r: 0.83137256, g: 0.68235296, b: 0.50980395, a: 1}
+  - {r: 0.8666667, g: 0.6666667, b: 0.6862745, a: 1}
+  - {r: 0.9490196, g: 0.8784314, b: 0.58431375, a: 1}
+  - {r: 0.8235294, g: 0.85490197, b: 0.8, a: 1}
+  - {r: 0.84313726, g: 0.8745098, b: 0.84313726, a: 1}
+  tags:
+  - tomicit0
+  - coresclaras
+  - hatsunemiku
+  - brasil
+  likes: 22

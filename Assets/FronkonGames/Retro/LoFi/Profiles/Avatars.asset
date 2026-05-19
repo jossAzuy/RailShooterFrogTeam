@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Avatars
+  m_EditorClassIdentifier: 
+  title: Avatars
+  colors:
+  - {r: 0.3137255, g: 0.19215687, b: 0.25490198, a: 1}
+  - {r: 0.3372549, g: 0.31764707, b: 0.38431373, a: 1}
+  - {r: 0.54509807, g: 0.2509804, b: 0.34117648, a: 1}
+  - {r: 0.40392157, g: 0.4509804, b: 0.5058824, a: 1}
+  - {r: 0.68235296, g: 0.47058824, b: 0.2784314, a: 1}
+  - {r: 0.7921569, g: 0.654902, b: 0.3529412, a: 1}
+  - {r: 0.58431375, g: 0.64705884, b: 0.59607846, a: 1}
+  - {r: 0.80784315, g: 0.81960785, b: 0.6509804, a: 1}
+  tags:
+  - pixelart
+  - avatars
+  - characters
+  - darktones
+  - fantasy
+  - videogames
+  - gritty
+  - antiheroes
+  - moodylighting
+  likes: 29

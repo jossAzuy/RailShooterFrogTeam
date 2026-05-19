@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83669505c72d3544fa75ff46048b0344
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TernaryRGB.asset
+  uploadId: 873794

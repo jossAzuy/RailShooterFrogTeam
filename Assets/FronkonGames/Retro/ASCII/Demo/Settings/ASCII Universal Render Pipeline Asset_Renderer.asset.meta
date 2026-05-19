@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 696fb602cf2276043a666cfa3f72510d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Demo/Settings/ASCII Universal Render
+    Pipeline Asset_Renderer.asset
+  uploadId: 873806

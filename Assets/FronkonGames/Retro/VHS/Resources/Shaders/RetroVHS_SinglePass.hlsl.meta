@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 765245701668c854c98c77701adf2323
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Resources/Shaders/RetroVHS_SinglePass.hlsl
+  uploadId: 868496

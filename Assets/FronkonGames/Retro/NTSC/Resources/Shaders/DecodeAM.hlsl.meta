@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d6d818f003ddac4db5d16456687f4b2
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Resources/Shaders/DecodeAM.hlsl
+  uploadId: 868486

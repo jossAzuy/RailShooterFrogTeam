@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Fluffy
+  m_EditorClassIdentifier: 
+  title: Fluffy
+  colors:
+  - {r: 0.08627451, g: 0.09019608, b: 0.101960786, a: 1}
+  - {r: 0.2627451, g: 0, b: 0.40392157, a: 1}
+  - {r: 0.21176471, g: 0.20784314, b: 0.3019608, a: 1}
+  - {r: 0.3647059, g: 0.15294118, b: 0.3647059, a: 1}
+  - {r: 0.8392157, g: 0.14117648, b: 0.06666667, a: 1}
+  - {r: 0.3372549, g: 0.42352942, b: 0.5254902, a: 1}
+  - {r: 0.24705882, g: 0.28235295, b: 0.7607843, a: 1}
+  - {r: 0.0627451, g: 0.8235294, b: 0.45882353, a: 1}
+  - {r: 1, g: 0.5176471, b: 0.14901961, a: 1}
+  - {r: 0.26666668, g: 0.5529412, b: 0.90588236, a: 1}
+  - {r: 0.654902, g: 0.9607843, b: 0.2784314, a: 1}
+  - {r: 1, g: 0.92156863, b: 0.2, a: 1}
+  tags: []
+  likes: 5

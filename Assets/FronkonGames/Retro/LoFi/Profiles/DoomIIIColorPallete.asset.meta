@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cebc04814c740143a4973fedcab8a3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DoomIIIColorPallete.asset
+  uploadId: 873794

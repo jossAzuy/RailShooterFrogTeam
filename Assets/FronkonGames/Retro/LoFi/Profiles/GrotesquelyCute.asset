@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: GrotesquelyCute
+  m_EditorClassIdentifier: 
+  title: Grotesquely Cute
+  colors:
+  - {r: 0.050980393, g: 0.050980393, b: 0.05882353, a: 1}
+  - {r: 0.10980392, g: 0.12941177, b: 0.25490198, a: 1}
+  - {r: 0.25490198, g: 0.24705882, b: 0.47058824, a: 1}
+  - {r: 0.39215687, g: 0.3882353, b: 0.61960787, a: 1}
+  - {r: 0.6156863, g: 0.5647059, b: 0.78431374, a: 1}
+  - {r: 0.8, g: 0.6862745, b: 0.8352941, a: 1}
+  - {r: 0.7529412, g: 0.85882354, b: 0.83137256, a: 1}
+  - {r: 0.8666667, g: 0.8509804, b: 0.99607843, a: 1}
+  tags:
+  - pixelart
+  - monsters
+  - grotesque
+  - cute
+  - creepy
+  - adorable
+  - purple
+  - violet
+  - weird
+  - quirky
+  - funny
+  - horror
+  - character
+  likes: 60

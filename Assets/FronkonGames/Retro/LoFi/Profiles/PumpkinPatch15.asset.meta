@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 274ba3045e4684c47851036981fa585b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PumpkinPatch15.asset
+  uploadId: 873794

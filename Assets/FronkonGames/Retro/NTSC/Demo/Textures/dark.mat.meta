@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fd82c62cd68c424ca69c6b7bb1ba949
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Demo/Textures/dark.mat
+  uploadId: 868486

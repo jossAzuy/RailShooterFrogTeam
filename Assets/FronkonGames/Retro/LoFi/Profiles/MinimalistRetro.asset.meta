@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 240056522e7f91f43b51d1d78597d724
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/MinimalistRetro.asset
+  uploadId: 873794

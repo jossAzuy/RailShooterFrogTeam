@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1ff8425bb8f0d64089b080d150ff8b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Retromud.asset
+  uploadId: 873794

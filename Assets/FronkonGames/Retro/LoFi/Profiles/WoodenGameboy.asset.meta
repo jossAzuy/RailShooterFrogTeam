@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f42dd8d595cf87044a17e7997ff164ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/WoodenGameboy.asset
+  uploadId: 873794

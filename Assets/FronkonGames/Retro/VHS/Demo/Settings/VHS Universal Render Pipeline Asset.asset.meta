@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2cf90a193cd17c4eb337621c4b5b2fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Demo/Settings/VHS Universal Render Pipeline
+    Asset.asset
+  uploadId: 868496

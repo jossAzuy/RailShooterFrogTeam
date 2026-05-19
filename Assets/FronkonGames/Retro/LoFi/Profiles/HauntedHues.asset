@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: HauntedHues
+  m_EditorClassIdentifier: 
+  title: Haunted Hues
+  colors:
+  - {r: 0.047058824, g: 0, b: 0.047058824, a: 1}
+  - {r: 0.25490198, g: 0.10980392, b: 0.25490198, a: 1}
+  - {r: 0.2901961, g: 0.16078432, b: 0.34117648, a: 1}
+  - {r: 0.4392157, g: 0.1764706, b: 0.31764707, a: 1}
+  - {r: 0.3764706, g: 0.34117648, b: 0.4117647, a: 1}
+  - {r: 0.6, g: 0.23921569, b: 0.33333334, a: 1}
+  - {r: 0.7647059, g: 0.40392157, b: 0.32941177, a: 1}
+  - {r: 0.5254902, g: 0.5058824, b: 0.57254905, a: 1}
+  - {r: 0.63529414, g: 0.65882355, b: 0.69803923, a: 1}
+  - {r: 1, g: 0.654902, b: 0.36862746, a: 1}
+  - {r: 0.972549, g: 0.9137255, b: 0.40784314, a: 1}
+  tags:
+  - pixelart
+  - autumn
+  - halloween
+  - spooky
+  - cozy
+  - warm
+  - orange
+  - purple
+  - gold
+  - fall
+  - harvest
+  - candlelight
+  - night
+  - festive
+  - moody
+  likes: 35

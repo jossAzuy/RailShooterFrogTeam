@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6280ba175a93b6a4999b3513c05384ee
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Resources/Shaders/ColorSpaces.hlsl
+  uploadId: 868478

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: SwamperRomper
+  m_EditorClassIdentifier: 
+  title: Swamper Romper
+  colors:
+  - {r: 0.2509804, g: 0.1254902, b: 0.2784314, a: 1}
+  - {r: 0.19215687, g: 0.36078432, b: 0.18431373, a: 1}
+  - {r: 0.1882353, g: 0.30588236, b: 0.30588236, a: 1}
+  - {r: 0.39607844, g: 0.34901962, b: 0.1882353, a: 1}
+  - {r: 0.2, g: 0.44705883, b: 0.40392157, a: 1}
+  - {r: 0.45882353, g: 0.33333334, b: 0.4392157, a: 1}
+  - {r: 0.43137255, g: 0.48235294, b: 0.3372549, a: 1}
+  tags: []
+  likes: 6

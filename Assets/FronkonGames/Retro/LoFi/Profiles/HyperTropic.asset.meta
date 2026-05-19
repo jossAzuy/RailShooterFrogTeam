@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5afdd68093fd7b46bc9ec63e257fa5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/HyperTropic.asset
+  uploadId: 873794

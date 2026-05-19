@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a58051dee58ac4a4d97c73fc70e77fb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/BlueScreenOfPalette.asset
+  uploadId: 873794

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5a7e5d90a4da7046b351f7ff14f7f66
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Resources/Shaders/ColorBlend.hlsl
+  uploadId: 873806

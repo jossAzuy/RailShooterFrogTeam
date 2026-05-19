@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: TyMurderMystery8
+  m_EditorClassIdentifier: 
+  title: TY Murder Mystery 8
+  colors:
+  - {r: 0.24313726, g: 0.16862746, b: 0.13333334, a: 1}
+  - {r: 0.50980395, g: 0.16470589, b: 0.16470589, a: 1}
+  - {r: 0.3254902, g: 0.2901961, b: 0.23137255, a: 1}
+  - {r: 0.3882353, g: 0.3764706, b: 0.18039216, a: 1}
+  - {r: 0.6745098, g: 0.34509805, b: 0.23921569, a: 1}
+  - {r: 0.6313726, g: 0.49019608, b: 0.21568628, a: 1}
+  - {r: 0.73333335, g: 0.56078434, b: 0.41960785, a: 1}
+  - {r: 0.87058824, g: 0.80784315, b: 0.7058824, a: 1}
+  tags: []
+  likes: 8

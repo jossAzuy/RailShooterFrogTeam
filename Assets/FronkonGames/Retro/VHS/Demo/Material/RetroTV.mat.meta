@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 390ae6a905443984fb717bb7f945e638
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Demo/Material/RetroTV.mat
+  uploadId: 868496

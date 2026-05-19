@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: WhatTheDec21
+  m_EditorClassIdentifier: 
+  title: What the Dec 2 1
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.1254902, g: 0.05882353, b: 0.25882354, a: 1}
+  - {r: 0.11372549, g: 0.18039216, b: 0.5137255, a: 1}
+  - {r: 0.5411765, g: 0.20784314, b: 0.14117648, a: 1}
+  - {r: 0.4, g: 0.4, b: 0.4, a: 1}
+  - {r: 0.35686275, g: 0.62352943, b: 0.22352941, a: 1}
+  - {r: 0.9019608, g: 0.44705883, b: 0.5803922, a: 1}
+  - {r: 1, g: 0.9098039, b: 0.30980393, a: 1}
+  - {r: 0.58431375, g: 0.8509804, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags: []
+  likes: 6

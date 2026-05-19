@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Pixelrama
+  m_EditorClassIdentifier: 
+  title: Pixelrama
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.105882354, g: 0.27058825, b: 0.1882353, a: 1}
+  - {r: 0.28235295, g: 0.40784314, b: 0.22745098, a: 1}
+  - {r: 0.6117647, g: 0.16078432, b: 0.14509805, a: 1}
+  - {r: 0.4509804, g: 0.30980393, b: 0.18039216, a: 1}
+  - {r: 0.36862746, g: 0.21568628, b: 0.57254905, a: 1}
+  - {r: 0.23137255, g: 0.52156866, b: 0.53333336, a: 1}
+  - {r: 0.7764706, g: 0.37254903, b: 0.3019608, a: 1}
+  - {r: 0.5294118, g: 0.65882355, b: 0.63529414, a: 1}
+  - {r: 0.90588236, g: 0.5686275, b: 0.6431373, a: 1}
+  - {r: 0.92156863, g: 0.7176471, b: 0.5372549, a: 1}
+  - {r: 0.78039217, g: 0.84313726, b: 0.7647059, a: 1}
+  - {r: 0.9137255, g: 0.9137255, b: 0.9137255, a: 1}
+  tags:
+  - pixelart
+  - mashup
+  - parody
+  - cartoons
+  - weird
+  - surreal
+  - popculture
+  - mutant
+  - retro
+  - ensemble
+  likes: 26

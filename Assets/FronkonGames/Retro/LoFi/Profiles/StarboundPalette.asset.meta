@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5370ccdb61a4d384fb5053e115fc4c35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/StarboundPalette.asset
+  uploadId: 873794

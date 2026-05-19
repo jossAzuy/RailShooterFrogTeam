@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebe83243b30625a449151dfe1a5f8db4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/VirtualBoyExpanded.asset
+  uploadId: 873794

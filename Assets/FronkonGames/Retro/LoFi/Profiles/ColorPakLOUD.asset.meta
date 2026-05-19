@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e82cc92f1c7a1a64cb1ef0e025fbd033
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/ColorPakLOUD.asset
+  uploadId: 873794

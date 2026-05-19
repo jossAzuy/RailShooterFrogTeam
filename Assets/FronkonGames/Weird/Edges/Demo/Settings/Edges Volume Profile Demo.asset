@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8913726663563243596
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fed6ae05675cbe4894ee99f921a5a07, type: 3}
+  m_Name: EdgesVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  intensity:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 1
+  edges:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 1
+  edgeWidth:
+    m_OverrideState: 1
+    m_Value: 2
+    min: 1
+    max: 10
+  edgeThreshold:
+    m_OverrideState: 1
+    m_Value: 0.1
+    min: 0.01
+    max: 1
+  edgeDetectionMethod:
+    m_OverrideState: 1
+    m_Value: 0
+  edgeColorMode:
+    m_OverrideState: 1
+    m_Value: 0
+  edgesColor:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+  edgesBlend:
+    m_OverrideState: 1
+    m_Value: 16
+  backgroundColor:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+  backgroundBlend:
+    m_OverrideState: 1
+    m_Value: 16
+  depthEdgeNearColor:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 1, b: 1, a: 1}
+  depthEdgeFarColor:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 0, b: 1, a: 1}
+  depthEdgeNear:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  depthEdgeFar:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 1
+  ignoreSkybox:
+    m_OverrideState: 1
+    m_Value: 1
+  brightness:
+    m_OverrideState: 1
+    m_Value: 0
+    min: -1
+    max: 1
+  contrast:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 10
+  gamma:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0.1
+    max: 10
+  hue:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  saturation:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 2
+  affectSceneView:
+    m_OverrideState: 1
+    m_Value: 0
+  useScaledTime:
+    m_OverrideState: 1
+    m_Value: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Edges Volume Profile Demo
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: -8913726663563243596}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32a14fb509f87a84ba4f0bec7c17c1fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/CafeDotChristmas.asset
+  uploadId: 873794

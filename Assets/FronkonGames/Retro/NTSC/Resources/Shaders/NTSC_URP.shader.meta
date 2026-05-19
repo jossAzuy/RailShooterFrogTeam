@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a77c95c3ae10a646aca1c39949e8aea
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Resources/Shaders/NTSC_URP.shader
+  uploadId: 868486

@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: NTSC Volume Profile Demo
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 2468419357083350733}
+--- !u!114 &2468419357083350733
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79998692cc106c499760a957f8c416f, type: 3}
+  m_Name: NTSCVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  intensity:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 1
+  ntscWindowRadius:
+    m_OverrideState: 1
+    m_Value: 20
+    min: 1
+    max: 64
+  amCarrierSignalWavelength:
+    m_OverrideState: 1
+    m_Value: 2
+    min: 0.5
+    max: 10
+  yLowPassWavelength:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0.1
+    max: 10
+  iLowPassWavelength:
+    m_OverrideState: 1
+    m_Value: 8
+    min: 1
+    max: 20
+  qLowPassWavelength:
+    m_OverrideState: 1
+    m_Value: 11
+    min: 1
+    max: 20
+  colorburstWavelengthEncoder:
+    m_OverrideState: 1
+    m_Value: 3
+    min: 1
+    max: 10
+  ntscScale:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0.1
+    max: 5
+  ntscPhaseAlternation:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 3.1415927
+  ntscNoiseStrength:
+    m_OverrideState: 1
+    m_Value: 0.1
+    min: 0
+    max: 1
+  ntscWindowBias:
+    m_OverrideState: 1
+    m_Value: 0
+    min: -1
+    max: 1
+  amDemodulateWavelength:
+    m_OverrideState: 1
+    m_Value: 2
+    min: 0.5
+    max: 10
+  amDecodeHighPassWavelength:
+    m_OverrideState: 1
+    m_Value: 2
+    min: 0.5
+    max: 10
+  colorburstWavelengthDecoder:
+    m_OverrideState: 1
+    m_Value: 3
+    min: 1
+    max: 10
+  decodeLowPassWavelength:
+    m_OverrideState: 1
+    m_Value: 4.5
+    min: 1
+    max: 10
+  brightness:
+    m_OverrideState: 1
+    m_Value: 0
+    min: -1
+    max: 1
+  contrast:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 10
+  gamma:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0.1
+    max: 10
+  hue:
+    m_OverrideState: 1
+    m_Value: 0
+    min: 0
+    max: 1
+  saturation:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 2
+  affectSceneView:
+    m_OverrideState: 1
+    m_Value: 0
+  useScaledTime:
+    m_OverrideState: 1
+    m_Value: 1

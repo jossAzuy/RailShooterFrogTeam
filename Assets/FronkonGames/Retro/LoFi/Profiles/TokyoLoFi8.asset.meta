@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc3573e264817eb49939b5be4bd6376c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TokyoLoFi8.asset
+  uploadId: 873794

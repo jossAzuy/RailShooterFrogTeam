@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Windswept
+  m_EditorClassIdentifier: 
+  title: Windswept
+  colors:
+  - {r: 0.0627451, g: 0.07058824, b: 0.06666667, a: 1}
+  - {r: 0.09019608, g: 0.105882354, b: 0.10980392, a: 1}
+  - {r: 0.11372549, g: 0.14901961, b: 0.12941177, a: 1}
+  - {r: 0.14117648, g: 0.16862746, b: 0.2, a: 1}
+  - {r: 0.18431373, g: 0.20784314, b: 0.22745098, a: 1}
+  - {r: 0.18431373, g: 0.2627451, b: 0.28627452, a: 1}
+  - {r: 0.25882354, g: 0.30980393, b: 0.3254902, a: 1}
+  - {r: 0.30588236, g: 0.38039216, b: 0.36078432, a: 1}
+  - {r: 0.37254903, g: 0.43137255, b: 0.38431373, a: 1}
+  - {r: 0.39607844, g: 0.4862745, b: 0.43137255, a: 1}
+  tags:
+  - dark
+  - desaturated
+  - green
+  - blue
+  - cold
+  - 10
+  likes: 41

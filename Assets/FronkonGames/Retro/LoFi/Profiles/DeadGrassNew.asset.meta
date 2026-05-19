@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe9dc1dc63c94c44e859ed3db5adc393
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/DeadGrassNew.asset
+  uploadId: 873794

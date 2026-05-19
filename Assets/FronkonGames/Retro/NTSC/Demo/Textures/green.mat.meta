@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d25d11be65592a48b65f853f2b500ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Demo/Textures/green.mat
+  uploadId: 868486

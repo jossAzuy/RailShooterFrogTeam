@@ -1,0 +1,28 @@
+{
+  "name": "com.fronkongames.retro.ntsc",
+  "version": "2.0.0",
+  "displayName": "Retro: NTSC",
+  "description": "Realistic and accurate NTSC",
+  "unity": "6000.0",
+  "unityRelease": "58f2",
+  "dependencies": { },
+  "keywords": [
+    "retro",
+    "ntsc",
+    "display",
+    "screen",
+    "monitor",
+    "tv",
+    "video",
+    "80s",
+    "1980s",
+    "signal",
+    "analog",
+    "digital"
+  ],
+  "author": {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/"
+  }
+}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: BurntSeason
+  m_EditorClassIdentifier: 
+  title: Burnt Season
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.1254902, g: 0.07450981, b: 0, a: 1}
+  - {r: 0, g: 0.078431375, b: 0.21568628, a: 1}
+  - {r: 0.2509804, g: 0.30588236, b: 0.12941177, a: 1}
+  - {r: 0.003921569, g: 0.31764707, b: 0.36862746, a: 1}
+  - {r: 0.40784314, g: 0.22352941, b: 0.18039216, a: 1}
+  - {r: 0.3137255, g: 0.24313726, b: 0.4, a: 1}
+  - {r: 0.27058825, g: 0.5803922, b: 0.30980393, a: 1}
+  - {r: 0.7254902, g: 0.4117647, b: 0.14509805, a: 1}
+  - {r: 0.011764706, g: 0.5411765, b: 0.7607843, a: 1}
+  - {r: 0.654902, g: 0.38431373, b: 0.6627451, a: 1}
+  - {r: 0.46666667, g: 0.827451, b: 0.69803923, a: 1}
+  - {r: 0.88235295, g: 0.7137255, b: 0.4392157, a: 1}
+  - {r: 0.5882353, g: 0.7490196, b: 1, a: 1}
+  - {r: 0.9372549, g: 0.6392157, b: 0.78431374, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - Kyle Ren
+  - autumn
+  - self
+  - season
+  - complementary
+  - custom
+  likes: 35

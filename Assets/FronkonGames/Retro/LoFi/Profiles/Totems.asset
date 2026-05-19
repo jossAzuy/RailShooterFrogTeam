@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Totems
+  m_EditorClassIdentifier: 
+  title: Totems
+  colors:
+  - {r: 0.22745098, g: 0.043137256, b: 0.2, a: 1}
+  - {r: 0.08627451, g: 0.29803923, b: 0.3372549, a: 1}
+  - {r: 0.45882353, g: 0.15686275, b: 0.37254903, a: 1}
+  - {r: 0.29803923, g: 0.47058824, b: 0.39607844, a: 1}
+  - {r: 0.7019608, g: 0.18039216, b: 0.4862745, a: 1}
+  - {r: 0.85490197, g: 0.23529412, b: 0.4117647, a: 1}
+  - {r: 0.9098039, g: 0.3882353, b: 0.3882353, a: 1}
+  - {r: 0.9607843, g: 0.5411765, b: 0.43137255, a: 1}
+  - {r: 0.6784314, g: 0.79607844, b: 0.5882353, a: 1}
+  - {r: 0.9647059, g: 0.78039217, b: 0.56078434, a: 1}
+  - {r: 0.9019608, g: 0.88235295, b: 0.6784314, a: 1}
+  tags:
+  - pixelart
+  - totem
+  - symbolic
+  - mystic
+  - earthy
+  - ritual
+  - nature
+  - spiritual
+  - myth
+  - folklore
+  - warm
+  - green
+  - purple
+  - tribal
+  - ancient
+  likes: 40

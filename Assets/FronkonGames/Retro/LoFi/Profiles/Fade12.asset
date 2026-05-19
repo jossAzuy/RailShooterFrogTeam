@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Fade12
+  m_EditorClassIdentifier: 
+  title: Fade12
+  colors:
+  - {r: 0, g: 0, b: 0.09803922, a: 1}
+  - {r: 0.25882354, g: 0.22745098, b: 0.3764706, a: 1}
+  - {r: 0.3529412, g: 0.7411765, b: 0.36078432, a: 1}
+  - {r: 0.50980395, g: 0.50980395, b: 0.50980395, a: 1}
+  - {r: 0.6117647, g: 0.34117648, b: 0.61960787, a: 1}
+  - {r: 0.99607843, g: 0.37254903, b: 0.33333334, a: 1}
+  - {r: 0.9607843, g: 0.8352941, b: 0.28627452, a: 1}
+  - {r: 0.9137255, g: 0.5254902, b: 0.7764706, a: 1}
+  - {r: 0.75686276, g: 1, b: 0.65882355, a: 1}
+  - {r: 0.65882355, g: 0.8509804, b: 1, a: 1}
+  - {r: 1, g: 0.8627451, b: 0.65882355, a: 1}
+  - {r: 0.9411765, g: 1, b: 0.99607843, a: 1}
+  tags: []
+  likes: 8

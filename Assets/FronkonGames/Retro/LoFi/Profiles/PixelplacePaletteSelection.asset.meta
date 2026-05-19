@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca37e493aa748134cbf72e450dcde721
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/PixelplacePaletteSelection.asset
+  uploadId: 873794

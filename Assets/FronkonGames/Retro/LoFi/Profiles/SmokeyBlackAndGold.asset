@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: SmokeyBlackAndGold
+  m_EditorClassIdentifier: 
+  title: Smokey black and Gold
+  colors:
+  - {r: 0.050980393, g: 0.03529412, b: 0.02745098, a: 1}
+  - {r: 0.5019608, g: 0.39215687, b: 0.24705882, a: 1}
+  - {r: 0.5176471, g: 0.6627451, b: 0.54901963, a: 1}
+  - {r: 0.49803922, g: 0.58431375, b: 0.81960785, a: 1}
+  - {r: 0.7921569, g: 0.8235294, b: 0.77254903, a: 1}
+  tags:
+  - pixelmatt
+  - smokeyblack
+  - softgold
+  likes: 6

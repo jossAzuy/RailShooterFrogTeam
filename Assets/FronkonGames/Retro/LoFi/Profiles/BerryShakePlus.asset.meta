@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 586ebb6746cd6bd4d88c8030f222e1c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/BerryShakePlus.asset
+  uploadId: 873794

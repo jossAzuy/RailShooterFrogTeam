@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31010c9a96bceb24fb7b2fe63ca8ba96
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/TuxPaintNew.asset
+  uploadId: 873794

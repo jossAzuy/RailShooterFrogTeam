@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: PostOfficeFlourescent
+  m_EditorClassIdentifier: 
+  title: Post Office Flourescent
+  colors:
+  - {r: 0.078431375, g: 0.08235294, b: 0.1254902, a: 1}
+  - {r: 0.007843138, g: 0.18039216, b: 0.41960785, a: 1}
+  - {r: 0.23137255, g: 0.24705882, b: 0.29411766, a: 1}
+  - {r: 0.2, g: 0.27058825, b: 0.36078432, a: 1}
+  - {r: 0.43529412, g: 0.3137255, b: 0.20784314, a: 1}
+  - {r: 0.6509804, g: 0.2627451, b: 0.13725491, a: 1}
+  - {r: 0.3254902, g: 0.5254902, b: 0.4392157, a: 1}
+  - {r: 0.43529412, g: 0.49411765, b: 0.56078434, a: 1}
+  - {r: 0.827451, g: 0.41568628, b: 0.3647059, a: 1}
+  - {r: 0.73333335, g: 0.60784316, b: 0.49803922, a: 1}
+  - {r: 0.38039216, g: 0.6666667, b: 0.8509804, a: 1}
+  - {r: 0.6313726, g: 0.68235296, b: 0.7294118, a: 1}
+  - {r: 0.78039217, g: 0.8039216, b: 0.64705884, a: 1}
+  - {r: 0.8901961, g: 0.827451, b: 0.6627451, a: 1}
+  - {r: 0.95686275, g: 0.95686275, b: 0.7921569, a: 1}
+  - {r: 0.99607843, g: 1, b: 0.9843137, a: 1}
+  tags:
+  - postoffice
+  - beige
+  - brown
+  - utilitarian
+  - flourescent
+  - commercial
+  likes: 15

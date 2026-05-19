@@ -1,0 +1,19 @@
+{
+  "name": "com.fronkongames.retro.ascii",
+  "version": "4.0.1",
+  "displayName": "Retro: ASCII",
+  "description": "The best way to replicate the look of ASCII art.",
+  "unity": "6000.0",
+  "unityRelease": "58f1",
+  "dependencies": { },
+  "keywords": [
+    "retro",
+    "ascii",
+    "post-processing",
+    "urp"
+  ],
+  "author": {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com"
+  }
+}

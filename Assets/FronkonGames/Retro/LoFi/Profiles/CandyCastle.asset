@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: CandyCastle
+  m_EditorClassIdentifier: 
+  title: Candy Castle
+  colors:
+  - {r: 0.21960784, g: 0, b: 0.101960786, a: 1}
+  - {r: 0.6431373, g: 0.07450981, b: 0.34117648, a: 1}
+  - {r: 0.8117647, g: 0.38431373, b: 0, a: 1}
+  - {r: 0, g: 0.56078434, b: 0.7137255, a: 1}
+  - {r: 0.93333334, g: 0.38431373, b: 0.5176471, a: 1}
+  - {r: 1, g: 0.79607844, b: 0.3019608, a: 1}
+  - {r: 0.42352942, g: 0.9137255, b: 0.76862746, a: 1}
+  - {r: 1, g: 0.9372549, b: 0.72156864, a: 1}
+  tags:
+  - bright
+  - vibrant
+  - pink
+  - blue
+  - saturated
+  likes: 51

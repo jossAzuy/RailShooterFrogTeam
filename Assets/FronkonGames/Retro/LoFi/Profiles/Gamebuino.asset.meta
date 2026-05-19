@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2077b2ea5d2e28e40be311e01d1bf51c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Gamebuino.asset
+  uploadId: 873794

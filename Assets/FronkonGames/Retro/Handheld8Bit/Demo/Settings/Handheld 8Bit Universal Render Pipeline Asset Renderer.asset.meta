@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b55fdcd31e4445418ce3e5883607b39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239924
+  packageName: 'Retro: Handheld 8-Bit'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Handheld8Bit/Demo/Settings/Handheld 8Bit Universal
+    Render Pipeline Asset Renderer.asset
+  uploadId: 868478

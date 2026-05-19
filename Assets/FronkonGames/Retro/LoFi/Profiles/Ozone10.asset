@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Ozone10
+  m_EditorClassIdentifier: 
+  title: Ozone 10
+  colors:
+  - {r: 0.45490196, g: 0.39607844, b: 0.4627451, a: 1}
+  - {r: 0.73333335, g: 0.5686275, b: 0.20784314, a: 1}
+  - {r: 0.53333336, g: 0.5058824, b: 0.5372549, a: 1}
+  - {r: 0.69803923, g: 0.42745098, b: 0.5411765, a: 1}
+  - {r: 0.5019608, g: 0.62352943, b: 0.54901963, a: 1}
+  - {r: 0.5803922, g: 0.76862746, b: 0.5058824, a: 1}
+  - {r: 0.76862746, g: 0.72156864, b: 0.39607844, a: 1}
+  - {r: 0.89411765, g: 0.44705883, b: 0.56078434, a: 1}
+  - {r: 0.7607843, g: 0.81960785, b: 0.6, a: 1}
+  - {r: 1, g: 0.9843137, b: 0.75686276, a: 1}
+  tags:
+  - Jude Buffum
+  - soft
+  - sky
+  - city
+  - sunset
+  - sunrise
+  likes: 20

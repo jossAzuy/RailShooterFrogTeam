@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: Glassware
+  m_EditorClassIdentifier: 
+  title: Glassware
+  colors:
+  - {r: 0.03137255, g: 0.039215688, b: 0.0627451, a: 1}
+  - {r: 0.09411765, g: 0.11764706, b: 0.1882353, a: 1}
+  - {r: 0.15686275, g: 0.19215687, b: 0.30980393, a: 1}
+  - {r: 0.21568628, g: 0.26666668, b: 0.43137255, a: 1}
+  - {r: 0.3019608, g: 0.37254903, b: 0.6039216, a: 1}
+  - {r: 0.44705883, g: 0.50980395, b: 0.7254902, a: 1}
+  - {r: 0.62352943, g: 0.6666667, b: 0.8117647, a: 1}
+  - {r: 0.7764706, g: 0.8039216, b: 0.8901961, a: 1}
+  tags:
+  - pixelart
+  - glass
+  - glassware
+  - crystal
+  - metal
+  - reflection
+  - blue
+  - silver
+  - cool
+  - elegant
+  - shiny
+  - transparent
+  - luminous
+  - nocturnal
+  likes: 44

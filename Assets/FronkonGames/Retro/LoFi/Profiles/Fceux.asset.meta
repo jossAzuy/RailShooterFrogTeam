@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69b5df3db967d0d4ea4938b9d0571171
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/Fceux.asset
+  uploadId: 873794

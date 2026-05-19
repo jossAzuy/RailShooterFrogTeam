@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b5476d84219e7747954099a0e494215
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Editor/FronkonGames.Retro.NTSC.Editor.asmdef
+  uploadId: 868486

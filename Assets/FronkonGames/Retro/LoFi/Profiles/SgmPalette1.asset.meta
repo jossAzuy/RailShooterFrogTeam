@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b02cb1c316312d041bfd8b0372c06bdc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/SgmPalette1.asset
+  uploadId: 873794

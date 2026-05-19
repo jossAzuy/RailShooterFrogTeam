@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a345797a88869e4db8bbc4d56283d62
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241924
+  packageName: 'Retro: ASCII'
+  packageVersion: 4.0.1
+  assetPath: Assets/FronkonGames/Retro/ASCII/Resources/Shaders/Retro.hlsl
+  uploadId: 873806

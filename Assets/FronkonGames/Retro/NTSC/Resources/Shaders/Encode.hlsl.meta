@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 451658cb9a35e684fb24a9031b43f94a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321946
+  packageName: 'Retro: NTSC'
+  packageVersion: 1.0.2
+  assetPath: Assets/FronkonGames/Retro/NTSC/Resources/Shaders/Encode.hlsl
+  uploadId: 868486

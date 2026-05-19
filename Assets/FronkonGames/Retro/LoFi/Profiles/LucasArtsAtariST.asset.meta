@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89209a1c446e5484cb3ee52d8e406fde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/LucasArtsAtariST.asset
+  uploadId: 873794

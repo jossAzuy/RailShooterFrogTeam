@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: NewDay
+  m_EditorClassIdentifier: 
+  title: New Day
+  colors:
+  - {r: 0.039215688, g: 0.043137256, b: 0.050980393, a: 1}
+  - {r: 0.16470589, g: 0.3019608, b: 0.019607844, a: 1}
+  - {r: 0.043137256, g: 0.043137256, b: 0.46666667, a: 1}
+  - {r: 0.4627451, g: 0.101960786, b: 0.039215688, a: 1}
+  - {r: 0, g: 0, b: 1, a: 1}
+  - {r: 0.35686275, g: 0.38039216, b: 0.43137255, a: 1}
+  - {r: 0.4, g: 0.78431374, b: 0, a: 1}
+  - {r: 0.9882353, g: 0.2509804, b: 0.12156863, a: 1}
+  - {r: 0.23529412, g: 0.5411765, b: 1, a: 1}
+  - {r: 0.7137255, g: 0.9607843, b: 0.4117647, a: 1}
+  - {r: 0.99607843, g: 0.65882355, b: 0.8039216, a: 1}
+  - {r: 0.73333335, g: 0.8392157, b: 1, a: 1}
+  - {r: 0.8745098, g: 0.88235295, b: 0.90588236, a: 1}
+  - {r: 0.89411765, g: 1, b: 0.76862746, a: 1}
+  tags:
+  - pixelart
+  - glitch
+  - retro
+  - boldcolors
+  - resilience
+  - sunrise
+  - hero
+  - journey
+  - reboot
+  - palette
+  likes: 9

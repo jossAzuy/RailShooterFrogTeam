@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12a380cf34c726641b7b79c44733406e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297300
+  packageName: 'Retro: Lo-Fi'
+  packageVersion: 2.0.1
+  assetPath: Assets/FronkonGames/Retro/LoFi/Profiles/VirtualBoyBlue.asset
+  uploadId: 873794

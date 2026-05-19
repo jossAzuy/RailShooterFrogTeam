@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: HoneyskinPalette
+  m_EditorClassIdentifier: 
+  title: Honeyskin palette
+  colors:
+  - {r: 0.40392157, g: 0.3254902, b: 0.23529412, a: 1}
+  - {r: 0.5803922, g: 0.45490196, b: 0.32941177, a: 1}
+  - {r: 0.7372549, g: 0.5176471, b: 0.29803923, a: 1}
+  - {r: 0.90588236, g: 0.7411765, b: 0.54509807, a: 1}
+  tags: []
+  likes: 5

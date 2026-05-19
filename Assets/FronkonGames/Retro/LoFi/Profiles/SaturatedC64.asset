@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 250557245ae654140886946287a231ca, type: 3}
+  m_Name: SaturatedC64
+  m_EditorClassIdentifier: 
+  title: SaturatedC64
+  colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.21176471, g: 0.22745098, b: 0.2901961, a: 1}
+  - {r: 0.12156863, g: 0.6392157, b: 0.13333334, a: 1}
+  - {r: 0.6, g: 0.2627451, b: 0.07058824, a: 1}
+  - {r: 0.87058824, g: 0.101960786, b: 0.3019608, a: 1}
+  - {r: 0.27058825, g: 0.18039216, b: 0.9019608, a: 1}
+  - {r: 0.68235296, g: 0.12156863, b: 0.85882354, a: 1}
+  - {r: 0.9490196, g: 0.5921569, b: 0.20392157, a: 1}
+  - {r: 0.5058824, g: 0.6039216, b: 0.6392157, a: 1}
+  - {r: 0.9137255, g: 0.8117647, b: 0.105882354, a: 1}
+  - {r: 0.44705883, g: 0.627451, b: 0.8666667, a: 1}
+  - {r: 0.33333334, g: 0.8784314, b: 0.7647059, a: 1}
+  - {r: 0.9137255, g: 0.5921569, b: 0.6745098, a: 1}
+  - {r: 0.83137256, g: 0.9411765, b: 0.5686275, a: 1}
+  - {r: 0.74509805, g: 0.8156863, b: 0.7921569, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  tags:
+  - EmsterUze
+  - commodore
+  - saturated
+  - pico8
+  - vibrant
+  - c64
+  - computer
+  - hardware
+  likes: 30

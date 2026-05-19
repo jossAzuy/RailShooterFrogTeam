@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 424fd4c8b70edd34ab0420223c9f59d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244944
+  packageName: 'Retro: VHS'
+  packageVersion: 3.0.0
+  assetPath: Assets/FronkonGames/Retro/VHS/Demo/Material/Floor.mat
+  uploadId: 868496
