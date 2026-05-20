@@ -30,7 +30,6 @@ Material:
   - _ENABLECONTRAST_ON
   - _ENABLEFULLGLOWDISSOLVE_ON
   - _ENABLEINNEROUTLINE_ON
-  - _ENABLESINESCALE_ON
   - _INNEROUTLINETEXTURETOGGLE_ON
   - _SHADERFADING_NONE
   - _SHADERSPACE_UV
@@ -271,7 +270,7 @@ Material:
     - _EnableCamouflage: 0
     - _EnableCheckerboard: 0
     - _EnableColorReplace: 0
-    - _EnableContrast: 1
+    - _EnableContrast: 1.1
     - _EnableCustomFade: 0
     - _EnableDirectionalAlphaFade: 0
     - _EnableDirectionalDistortion: 0
@@ -281,14 +280,14 @@ Material:
     - _EnableFrozen: 0
     - _EnableFullAlphaDissolve: 0
     - _EnableFullDistortion: 0
-    - _EnableFullGlowDissolve: 1
+    - _EnableFullGlowDissolve: 1.1
     - _EnableGaussianBlur: 0
     - _EnableGlitch: 0
     - _EnableHalftone: 0
     - _EnableHologram: 0
     - _EnableHue: 0
     - _EnableInkSpread: 0
-    - _EnableInnerOutline: 1
+    - _EnableInnerOutline: 1.1
     - _EnableMetal: 0
     - _EnableNegative: 0
     - _EnableOuterOutline: 0
@@ -309,7 +308,7 @@ Material:
     - _EnableSineGlow: 0
     - _EnableSineMove: 0
     - _EnableSineRotate: 0
-    - _EnableSineScale: 1
+    - _EnableSineScale: 0
     - _EnableSmoke: 0
     - _EnableSmoothPixelArt: 0
     - _EnableSourceAlphaDissolve: 0
@@ -360,7 +359,7 @@ Material:
     - _GaussianBlurFade: 1
     - _GaussianBlurOffset: 0.5
     - _GlitchBrightness: 4
-    - _GlitchFade: 1
+    - _GlitchFade: 0.46
     - _GlitchHueSpeed: 1
     - _GlitchMaskMin: 0.4
     - _GlossMapScale: 0

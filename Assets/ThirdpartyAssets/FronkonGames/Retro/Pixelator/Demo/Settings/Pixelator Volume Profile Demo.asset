@@ -853,7 +853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a3be25291eb7bc47b17c1270b8e65fc, type: 3}
   m_Name: PixelatorVolume
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   intensity:
     m_OverrideState: 1
     m_Value: 1
@@ -864,7 +864,7 @@ MonoBehaviour:
     m_Value: 1
   pixelSize:
     m_OverrideState: 1
-    m_Value: 0.076
+    m_Value: 0.325
     min: 0
     max: 1
   screenAspectRatio:
