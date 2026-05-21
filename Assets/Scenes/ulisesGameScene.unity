@@ -2671,7 +2671,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3adcb7ea058378c49a52711277e34281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GamePause
-  pauseMenu: {fileID: 982678421}
+  pauseMenu: {fileID: 2083056673}
   isGamePaused: 0
 --- !u!4 &982678423
 Transform:
