@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79998692cc106c499760a957f8c416f, type: 3}
   m_Name: NTSCVolume
   m_EditorClassIdentifier: FronkonGames.Retro.NTSC::FronkonGames.Retro.NTSC.NTSCVolume
-  active: 1
+  active: 0
   intensity:
     m_OverrideState: 1
     m_Value: 1
@@ -591,7 +591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f4186ad81bb1dd43a9d2f3484eed02f, type: 3}
   m_Name: VHSVolume
   m_EditorClassIdentifier: FronkonGames.Retro.VHS::FronkonGames.Retro.VHS.VHSVolume
-  active: 1
+  active: 0
   intensity:
     m_OverrideState: 1
     m_Value: 0.038
@@ -640,8 +640,8 @@ MonoBehaviour:
     min: -5
     max: 5
   tapeCreaseNoise:
-    m_OverrideState: 0
-    m_Value: 0.7
+    m_OverrideState: 1
+    m_Value: 0
     min: 0
     max: 1
   tapeCreaseDistortion:
@@ -665,7 +665,7 @@ MonoBehaviour:
     min: 1
     max: 16
   tapeNoiseHigh:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0.1
     min: 0
     max: 1
@@ -675,7 +675,7 @@ MonoBehaviour:
     min: 0
     max: 1
   acBeatStrength:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0.1
     min: 0
     max: 1
@@ -705,8 +705,8 @@ MonoBehaviour:
     min: 0
     max: 100
   vignette:
-    m_OverrideState: 0
-    m_Value: 0.25
+    m_OverrideState: 1
+    m_Value: 0
     min: 0
     max: 1
   brightness:
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fed6ae05675cbe4894ee99f921a5a07, type: 3}
   m_Name: EdgesVolume
   m_EditorClassIdentifier: FronkonGames.Weird.Edges::FronkonGames.Weird.Edges.EdgesVolume
-  active: 1
+  active: 0
   intensity:
     m_OverrideState: 1
     m_Value: 0.07
@@ -853,7 +853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a3be25291eb7bc47b17c1270b8e65fc, type: 3}
   m_Name: PixelatorVolume
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   intensity:
     m_OverrideState: 1
     m_Value: 1
@@ -864,7 +864,7 @@ MonoBehaviour:
     m_Value: 1
   pixelSize:
     m_OverrideState: 1
-    m_Value: 0.325
+    m_Value: 0.2
     min: 0
     max: 1
   screenAspectRatio:
@@ -893,15 +893,15 @@ MonoBehaviour:
     max: 8
   chromaticAberrationIntensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
     min: 0
     max: 10
   chromaticAberrationOffset:
     m_OverrideState: 1
     m_Value: {x: 1, y: 2, z: -1}
   gradientIntensity:
-    m_OverrideState: 1
-    m_Value: 0
+    m_OverrideState: 0
+    m_Value: 0.045
     min: 0
     max: 1
   gradient:
@@ -938,17 +938,17 @@ MonoBehaviour:
       m_NumAlphaKeys: 2
   luminanceMin:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.013100437
     min: 0
     max: 1
   luminanceMax:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.6724891
     min: 0
     max: 1
   gradientMappingMode:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 0
   gradientCIELabSamples:
     m_OverrideState: 1
     m_Value: 16
@@ -994,7 +994,7 @@ MonoBehaviour:
     max: 256
   posterizeLuminanceSteps:
     m_OverrideState: 1
-    m_Value: 24
+    m_Value: 256
     min: 2
     max: 256
   posterizeHSVSteps:

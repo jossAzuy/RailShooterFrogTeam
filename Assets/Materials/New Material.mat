@@ -25,6 +25,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - PIXELSNAP_ON
   - _ENABLEADDCOLOR_ON
   - _ENABLEHOLOGRAM_ON
   - _ENABLEINNEROUTLINE_ON
@@ -189,10 +190,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - PixelSnap: 0
+    - PixelSnap: 1
     - _AddColorContrast: 0.5
     - _AddColorContrastToggle: 0
-    - _AddColorFade: 0.1
+    - _AddColorFade: 0.4
     - _AddColorMaskToggle: 0
     - _AddHueBrightness: 2
     - _AddHueContrast: 0.5
@@ -261,7 +262,7 @@ Material:
     - _DirectionalGlowFadeWidth: 0.1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EnableAddColor: 1
+    - _EnableAddColor: 1.1
     - _EnableAddHue: 0
     - _EnableAlphaTint: 0
     - _EnableBlackTint: 0
@@ -284,10 +285,10 @@ Material:
     - _EnableGaussianBlur: 0
     - _EnableGlitch: 0
     - _EnableHalftone: 0
-    - _EnableHologram: 1
+    - _EnableHologram: 1.1
     - _EnableHue: 0
     - _EnableInkSpread: 0
-    - _EnableInnerOutline: 1
+    - _EnableInnerOutline: 1.1
     - _EnableMetal: 0
     - _EnableNegative: 0
     - _EnableOuterOutline: 1.1
@@ -359,7 +360,7 @@ Material:
     - _GaussianBlurFade: 1
     - _GaussianBlurOffset: 0.5
     - _GlitchBrightness: 4
-    - _GlitchFade: 0.52
+    - _GlitchFade: 0.29
     - _GlitchHueSpeed: 1
     - _GlitchMaskMin: 0.4
     - _GlossMapScale: 0
@@ -379,7 +380,7 @@ Material:
     - _HologramLineGap: 3
     - _HologramLineSpeed: 0.01
     - _HologramMinAlpha: 0.2
-    - _Hue: 0
+    - _Hue: -1
     - _InkSpreadContrast: 2
     - _InkSpreadDistance: 3
     - _InkSpreadFade: 1
@@ -407,7 +408,7 @@ Material:
     - _OuterOutlineWidth: 0.04
     - _Parallax: 0.005
     - _PingPongGlowContrast: 1
-    - _PingPongGlowFade: 1
+    - _PingPongGlowFade: 0
     - _PingPongGlowFrequency: 3
     - _PixelOutlineAlphaLimit: 0.5
     - _PixelOutlineFade: 1
@@ -445,7 +446,7 @@ Material:
     - _ScreenWidthUnits: 10
     - _ShaderFading: 0
     - _ShaderSpace: 0
-    - _ShadowFade: 1
+    - _ShadowFade: 0
     - _SharpenFactor: 4
     - _SharpenFade: 1
     - _SharpenOffset: 2
@@ -458,13 +459,13 @@ Material:
     - _ShiftingSaturation: 0.8
     - _ShiftingSpeed: 0.5
     - _ShineContrast: 2
-    - _ShineFade: 0.02
+    - _ShineFade: 0.08
     - _ShineFrequency: 0.3
     - _ShineMaskToggle: 0
     - _ShineRotation: 30
     - _ShineSaturation: 0.5
     - _ShineSmooth: 1
-    - _ShineSpeed: 5
+    - _ShineSpeed: 2
     - _ShineWidth: 0.1
     - _SineGlowContrast: 1
     - _SineGlowFade: 1
@@ -575,7 +576,7 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _AddColorColor: {r: 0.47640195, g: 0, b: 1.4980392, a: 0}
+    - _AddColorColor: {r: 0.38354096, g: 0, b: 1.4980392, a: 0}
     - _AlphaTintColor: {r: 95.87451, g: 5.019608, b: 95.87451, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BlackTintColor: {r: 0, g: 0, b: 1, a: 0}
@@ -658,7 +659,7 @@ Material:
     - _OuterOutlineTextureSpeed: {r: 0.5, g: 0, b: 0, a: 0}
     - _PingPongGlowFrom: {r: 5.992157, g: 0.1882353, b: 0.1882353, a: 0}
     - _PingPongGlowTo: {r: 0.1882353, g: 0.1882353, b: 5.992157, a: 0}
-    - _PixelOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PixelOutlineColor: {r: 0.9478986, g: 1, b: 0, a: 1}
     - _PixelOutlineTextureSpeed: {r: 0.5, g: 0, b: 0, a: 0}
     - _PoisonColor: {r: 0.3137255, g: 2.996078, b: 0.3137255, a: 0}
     - _PoisonNoiseScale: {r: 0.2, g: 0.2, b: 0, a: 0}
